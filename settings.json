@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "BluckyBot3000",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BluckyBot",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Dołącz do naszego servera discord! https://discord.gg/GygpkqQNX4",
+        "Uważaj na Moby które mogą wejść na spawn",
+        "Dla bezpieczeństwa buduj baze daleko od spawna!"
       ]
     },
     "chat-log": true,
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
